@@ -1,0 +1,9 @@
+c:\users\manuel\documents\visual studio 2013\Projects\AppLi\AppLi\bin\Debug\AppLi.exe.config
+c:\users\manuel\documents\visual studio 2013\Projects\AppLi\AppLi\bin\Debug\AppLi.exe
+c:\users\manuel\documents\visual studio 2013\Projects\AppLi\AppLi\bin\Debug\AppLi.pdb
+c:\users\manuel\documents\visual studio 2013\Projects\AppLi\AppLi\bin\Debug\AppLi.xml
+c:\users\manuel\documents\visual studio 2013\Projects\AppLi\AppLi\obj\Debug\AppLi.Resources.resources
+c:\users\manuel\documents\visual studio 2013\Projects\AppLi\AppLi\obj\Debug\AppLi.vbproj.GenerateResource.Cache
+c:\users\manuel\documents\visual studio 2013\Projects\AppLi\AppLi\obj\Debug\AppLi.exe
+c:\users\manuel\documents\visual studio 2013\Projects\AppLi\AppLi\obj\Debug\AppLi.xml
+c:\users\manuel\documents\visual studio 2013\Projects\AppLi\AppLi\obj\Debug\AppLi.pdb
